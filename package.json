@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-service",
+  "version": "1.0.0",
+  "description": "Model based wrapper for Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maulikpipaliya/mongoose-service.git"
+  },
+  "keywords": [
+    "Model",
+    "based",
+    "wrapper",
+    "for",
+    "Mongoose"
+  ],
+  "author": "Maulik Pipaliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maulikpipaliya/mongoose-service/issues"
+  },
+  "homepage": "https://github.com/maulikpipaliya/mongoose-service#readme"
+}
